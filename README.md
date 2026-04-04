@@ -59,6 +59,13 @@ dataset_root/
 
 ---
 
+## 🧩 Data Splits
+
+The patient-wise train/validation/test split files used in this study can be accessed below:
+
+- **Stage-I:** https://docs.google.com/spreadsheets/d/1LYFux4A-Mpzy7i0tvkO6sUOB_hB7mrUI/edit?usp=sharing&ouid=113011732425294629363&rtpof=true&sd
+- **Stage-II:** https://docs.google.com/spreadsheets/d/17yJpLHqUC3fUH4kFq_9LN_Zs7CvHufI7/edit?usp=sharing&ouid=113011732425294629363&rtpof=true&sd
+
 ## 📄 Citation
 
 > *Coming soon.*
