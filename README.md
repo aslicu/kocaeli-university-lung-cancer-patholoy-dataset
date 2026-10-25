@@ -72,7 +72,14 @@ The patient-wise train/validation/test split files used in this study can be acc
 
 If you use this dataset in your research, please cite our paper:
 
+
+## 📄 Citation
+
+If you use this dataset in your research, please cite our paper:
+
 Ozbek B, Dogan HN, Vural C, Yetim K, Celik A, Urhan O, Yaprak Bayrak B. Two-Stage Deep Learning Framework for Histopathological Subtyping of Non-Small Cell Lung Carcinoma in Small Biopsies. Int J Surg Pathol. 2026 Oct 22:10668969261489627. doi: 10.1177/10668969261489627. PMID: 42921941.
+
+---
 ---
 
 ## 🤝 Acknowledgements
