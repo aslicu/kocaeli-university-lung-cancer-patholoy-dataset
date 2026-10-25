@@ -55,7 +55,9 @@ dataset_root/
 
 👉 You can **download example data [here](https://drive.google.com/drive/folders/1BNtVx62udL9DisQQC208boGj8hN_dnt5)**.  
 
-📦 You can **download the full dataset [here](https://drive.google.com/file/d/1T7GcM9boUZ3luou5vIT_uE7Y4_PUp5XW/)**.  
+📦 You can **download the full dataset [here](https://drive.google.com/file/d/1T7GcM9boUZ3luou5vIT_uE7Y4_PUp5XW/)**. 
+
+🔑 **Password:** `kule290925!`
 
 ---
 
@@ -68,8 +70,9 @@ The patient-wise train/validation/test split files used in this study can be acc
 
 ## 📄 Citation
 
-> *Coming soon.*
+If you use this dataset in your research, please cite our paper:
 
+Ozbek B, Dogan HN, Vural C, Yetim K, Celik A, Urhan O, Yaprak Bayrak B. Two-Stage Deep Learning Framework for Histopathological Subtyping of Non-Small Cell Lung Carcinoma in Small Biopsies. Int J Surg Pathol. 2026 Oct 22:10668969261489627. doi: 10.1177/10668969261489627. PMID: 42921941.
 ---
 
 ## 🤝 Acknowledgements
